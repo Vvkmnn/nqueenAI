@@ -1,6 +1,6 @@
 ## nqueenAI
 
-An additional lab in the [Artificial Intelligence Nanodegree program](https://classroom.udacity.com/nanodegrees/nd889/syllabus), designed to attempt the [Travelling Salesman Problem (TSP)](https://en.wikipedia.org/wiki/Eight_queens_puzzle). The original repository is available from [Udacity](https://github.com/udacity/AIND-Constraint_Satisfaction).
+An additional lab in the [Artificial Intelligence Nanodegree program](https://classroom.udacity.com/nanodegrees/nd889/syllabus), designed to attempt the [N Queens](https://en.wikipedia.org/wiki/Eight_queens_puzzle). The original repository is available from [Udacity](https://github.com/udacity/AIND-Constraint_Satisfaction).
 
 ![](EightQueens.gif)
 
